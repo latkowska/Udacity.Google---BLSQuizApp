@@ -1,0 +1,82 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+
+    <!-- Style of 'Enter your name' EditText field. -->
+    <style name="EnterYourName">
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_margin">@dimen/margin</item>
+        <item name="android:inputType">textCapWords</item>
+        <item name="android:imeOptions">actionDone</item>
+        <item name="android:cursorVisible">false</item>
+        <item name="android:maxLength">25</item>
+    </style>
+
+    <!-- Style of questions. -->
+    <style name="Question">
+        <item name="android:textColor">@color/colorRed</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_marginLeft">@dimen/questionmarginleft</item>
+        <item name="android:layout_marginRight">@dimen/questionmarginright</item>
+        <item name="android:layout_marginBottom">@dimen/questionmarginbottom</item>
+        <item name="android:layout_marginTop">@dimen/questionmargintop</item>
+        <item name="android:padding">@dimen/questionpadding</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+    <!-- Style of Answers - RadioGroup. -->
+    <style name="Answers">
+        <item name="android:textSize">14sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/colorBlack</item>
+        <item name="android:padding">@dimen/answerpadding</item>
+        <item name="android:layout_marginLeft">@dimen/answermarginleftt</item>
+    </style>
+
+    <!-- Style of Checkboxes. -->
+    <style name="Checkbox">
+        <item name="android:textSize">14sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/colorBlack</item>
+        <item name="android:padding">@dimen/answerpadding</item>
+        <item name="android:layout_marginLeft">@dimen/checkboxmarginleft</item>
+    </style>
+
+    <!-- Style of 'Enter your answer' EditText field. -->
+    <style name="EnterYourAnswer">
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_margin">@dimen/enteryouranswermargin</item>
+    </style>
+
+    <!-- Style of the 'Result' button. -->
+    <style name="Button">
+        <item name="android:background">@color/colorRed</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:padding">@dimen/buttonpadding</item>
+        <item name="android:layout_marginTop">@dimen/buttonmargintop</item>
+        <item name="android:layout_marginRight">@dimen/buttonmarginright</item>
+        <item name="android:layout_marginLeft">@dimen/buttonmarginleft</item>
+        <item name="android:layout_marginBottom">@dimen/buttonmarginbottom</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Style of the 'Reset' button. -->
+    <style name="ResetButton">
+        <item name="android:background">@color/colorRed</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:padding">@dimen/buttonpadding</item>
+        <item name="android:layout_marginTop">@dimen/buttonResetmargintop</item>
+        <item name="android:layout_marginRight">@dimen/buttonResetmarginright</item>
+        <item name="android:layout_marginLeft">@dimen/buttonResetmarginleft</item>
+        <item name="android:layout_marginBottom">@dimen/buttonResetmarginbottom</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

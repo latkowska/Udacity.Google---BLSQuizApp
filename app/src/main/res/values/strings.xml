@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">BLS Quiz</string>
+    <string name="hint1">Enter your name...</string>
+    <string name="hint2">Enter your answer...</string>
+    <string name="Q1">CPR stands for:</string>
+    <string name="Q2">You are a witness of a car accident. What is the most important thing to do before going into action?</string>
+    <string name="Q3">When the aggrieved person isn’t responding for your questions but he’s still breathing you are supposed to:</string>
+    <string name="Q4">For proper airway patency you need to:</string>
+    <string name="Q5">Appropriate ratio of chest compressions and breaths for adults while giving CPR is:</string>
+    <string name="Q6">For how many seconds you are obliged to check unconscious person\'s breathing while giving BLS?</string>
+    <string name="Q1A1">Creative patient rescue</string>
+    <string name="Q1A2">Cardiopulmonary rescue</string>
+    <string name="Q1A3">Cardiopulmonary resuscitation</string>
+    <string name="Q2A1">Call for help</string>
+    <string name="Q2A2">Stop traffic</string>
+    <string name="Q2A3">Check your own safety, because life rescuer is better than none</string>
+    <string name="Q3A1">Give CPR</string>
+    <string name="Q3A2">Lay him in the recovery position</string>
+    <string name="Q3A3">Control breathing and vitals</string>
+    <string name="Q3A4">Look for an AED (automated external defibrillator)</string>
+    <string name="Q4A1">Tilt aggrieved person head</string>
+    <string name="Q4A2">Intubate the sufferer</string>
+    <string name="Q4A3">Give pure oxygen</string>
+    <string name="Q4A4">Lift the mandible</string>
+    <string name="Q5A1">20 chest compressions / 4 breaths</string>
+    <string name="Q5A2">30 chest compressions / 1 breath</string>
+    <string name="Q5A3">30 chest compressions / 2 breaths</string>
+    <string name="Q5A4">25 chest compressions / 2 breaths</string>
+    <string name="B">Result</string>
+    <string name="R">Reset Score</string>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+

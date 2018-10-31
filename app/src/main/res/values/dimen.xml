@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dimens of 'Enter your name' EditText field. -->
+    <dimen name="margin">8dp</dimen>
+
+    <!-- Dimens of questions fields. -->
+    <dimen name="questionmarginleft">8dp</dimen>
+    <dimen name="questionmarginright">8dp</dimen>
+    <dimen name="questionmarginbottom">6dp</dimen>
+    <dimen name="questionpadding">6dp</dimen>
+    <dimen name="questionmargintop">26dp</dimen>
+
+    <!-- Dimens of 'Enter your answer' EditText field. -->
+    <dimen name="enteryouranswermargin">10dp</dimen>
+
+    <!-- Dimens of answers fields. -->
+    <dimen name="answermarginleftt">6dp</dimen>
+    <dimen name="answerpadding">2dp</dimen>
+
+    <!-- Dimens of checkboxes answers fields. -->
+    <dimen name="checkboxmarginleft">8dp</dimen>
+
+    <!-- Dimens of the 'Result' button. -->
+    <dimen name="buttonpadding">2dp</dimen>
+    <dimen name="buttonmarginleft">16dp</dimen>
+    <dimen name="buttonmarginright">16dp</dimen>
+    <dimen name="buttonmarginbottom">6dp</dimen>
+    <dimen name="buttonmargintop">32dp</dimen>
+
+    <!-- Dimens of the 'Reset' button. -->
+    <dimen name="buttoResetnpadding">2dp</dimen>
+    <dimen name="buttonResetmarginleft">16dp</dimen>
+    <dimen name="buttonResetmarginright">16dp</dimen>
+    <dimen name="buttonResetmarginbottom">10dp</dimen>
+    <dimen name="buttonResetmargintop">6dp</dimen>
+</resources>
+
